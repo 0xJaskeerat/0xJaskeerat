@@ -29,7 +29,7 @@ src="https://camo.githubusercontent.com/c8908719044365963ab6efff0f3e207fc97d0d2f
  <br/>
 
 
-<img align="right" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" />
+<img align="right" height="360px" width="360px" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" />
 
 <h2>⚡️ My profile </h2>
 <ul>
