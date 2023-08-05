@@ -108,9 +108,13 @@ src="https://camo.githubusercontent.com/c8908719044365963ab6efff0f3e207fc97d0d2f
 </p>
 
 <h2 align="center">One of my greatest Loss 😢 </h2>
-<h3 align="center"> I lost access to <a href="align="center"">My Old Beautiful Github Account</a> 😭 </h3>
+<h3 align="center"> I lost access to <a href="https://github.com/Jassi10000-zz">My Old Beautiful Github Account</a> 😭 </h3>
+<p align="center">
+  <img width="1437" alt="Screenshot 2023-08-05 at 1 38 24 PM" src="https://github.com/0xJaskeerat/0xJaskeerat/assets/124770018/d3756bfd-85cd-4d3d-a631-987e942e0810">
+</p>
 
  <br>                                                                     
+
                                                                           
 <h2 align="center">My Github Statistics 🔥</h2>   
   
