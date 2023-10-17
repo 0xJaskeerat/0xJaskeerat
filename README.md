@@ -33,7 +33,7 @@ src="https://camo.githubusercontent.com/c8908719044365963ab6efff0f3e207fc97d0d2f
 
 <h2>⚡️ My profile </h2>
 <ul>
-  <li>🔭 I’m currently working as a Software Engineer at <a href="https://in.linkedin.com/company/bizongo">Bizongo</a>.</li>
+  <li>🔭 I’m currently working as a Software Engineer at <a href="https://in.linkedin.com/company/brevo">Brevo</a>.</li>
   <li>🧐 Learning about <strong>Modern Web Dev</strong>, <strong>Blockchain</strong>, and a bit of <strong>Architectures</strong>.</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/0xJaskeerat">Github</a>.</li>
   <li>📝 I <del>regulary</del> write articles on <a href="https://hashnode.com/@Jassi10000">my blog</a>.</li>
